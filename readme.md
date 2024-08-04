@@ -35,7 +35,6 @@
 
 如果您对项目有兴趣，或者有任何建议和疑问，欢迎通过以下方式联系我们：
 
-- 邮箱：[your_email@example.com](mailto:your_email@example.com)
-- GitHub：[心爱心理学大模型 GitHub 仓库](https://github.com/llbapp/心爱心理学大模型)
+- 邮箱：[1439549939@qq.com](mailto:your_email@example.com)
 
 感谢您的关注和支持！
