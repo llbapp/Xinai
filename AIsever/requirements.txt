@@ -1,0 +1,15 @@
+langchain-core
+langchain-community
+langchain
+llama-index-embeddings-huggingface==0.2.0 
+llama-index-embeddings-instructor==0.1.3
+openai
+openpyxl
+chromadb
+FlagEmbedding
+peft
+faiss-cpu
+unstructured
+python-magic
+pandas
+loguru
